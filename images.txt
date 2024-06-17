@@ -1,3 +1,6 @@
 nginx:latest
 httpd:latest
 busybox:latest
+rockylinux:9
+ununtu:latest
+busybox:1.28
