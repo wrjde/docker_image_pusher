@@ -1,2 +1,4 @@
 nginx：latest
-
+httpd：latest
+rockylinux：9
+busybox：latest
