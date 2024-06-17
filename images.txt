@@ -1,5 +1,2 @@
-rockylinux：9
 nginx：latest
-httpd：latest
-busybox：latest
 
