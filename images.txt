@@ -1,1 +1,2 @@
 mysql:8
+ubuntu:22.04
