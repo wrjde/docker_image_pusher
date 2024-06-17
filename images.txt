@@ -1,2 +1,1 @@
-ununtu:latest
-busybox:1.28
+mysql:8
