@@ -1,1 +1,1 @@
-zabbix:latest
+zabbix-server:latest
