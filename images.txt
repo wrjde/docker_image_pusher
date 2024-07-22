@@ -1,2 +1,2 @@
-prom/prometheus:v2.53.0
-prom/node-exporter:v1.8.1
+
+prom/alermanager:v0.27.0 
