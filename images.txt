@@ -1,5 +1,5 @@
 
-grafana/grafana:v10.0.9
+
 prom/node-exporter:v1.81
 prom/prometheus:v2.53.0
 prom/alermanager:v0.27.0 
