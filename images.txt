@@ -1,2 +1,2 @@
-prom/prometheus:v2.5.3.0
+prom/prometheus:v2.53.0
 prom/node-exporter:v1.8.1
